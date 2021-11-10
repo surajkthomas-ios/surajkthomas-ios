@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surajkthomas-ios
-- 👀 I’m interested in high quality Architectured IOS apps
+- 👀 I’m interested in high quality architecture - IOS apps
 - 🌱 I’m currently learning Modular design , TDD in IOS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  skype: surajkthomas
